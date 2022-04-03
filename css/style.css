@@ -162,3 +162,11 @@ li > a {
 }
 
 /* fonts */
+
+.fotlato{
+    font-family: 'lato';
+}
+
+.fonrob{
+    font-family: 'Roboto';
+}
